@@ -1,0 +1,38 @@
+{
+  "expo": {
+    "name": "PokeExplorer",
+    "slug": "poke-explorer",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "automatic",
+    "newArchEnabled": false,
+    "backgroundColor": "#0F0F1A",
+
+    "icon": "./assets/icon.png",
+
+    "splash": {
+      "image": "./assets/splash.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#0F0F1A"
+    },
+
+    "assetBundlePatterns": ["**/*"],
+
+    "ios": {
+      "supportsTablet": true,
+      "bundleIdentifier": "com.yourname.pokeexplorer"
+    },
+
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/adaptive-icon.png",
+        "backgroundColor": "#CC0000"
+      },
+      "package": "com.yourname.pokeexplorer"
+    },
+
+    "web": {
+      "favicon": "./assets/favicon.png"
+    }
+  }
+}
