@@ -9,7 +9,7 @@ A cross-platform mobile application built with React Native and Expo that lets u
 - React Native
 - Expo (SDK 54)
 - PokeAPI (https://pokeapi.co) — free, no API key required
-- 2–3 minute demo video showing the app:
+- 2–3 minute demo video showing the app: https://youtu.be/4YR4Supc6sI
 - Expo share link: https://expo.dev/accounts/xel_4444/projects/poke-explorer/builds/94e63f7c-e24f-4595-a259-e7fd9a96267c
 ---
 
